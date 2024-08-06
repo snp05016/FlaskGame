@@ -1,0 +1,14 @@
+4 3
+AA
+AA
+CC
+CC
+AA
+3F2
+CC
+BB
+BB
+2F4
+BB
+AA
+4F1

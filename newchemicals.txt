@@ -1,0 +1,10 @@
+3 2
+BB
+AA
+BB
+BB
+AA
+2F1
+AA
+AA
+4F3
